@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+joblib
+pandas
+xgboost
+gdown
